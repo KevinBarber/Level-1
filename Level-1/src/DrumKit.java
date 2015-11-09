@@ -1,4 +1,3 @@
-package phtoQuiz;
 
 // Copyright Wintriss Technical Schools 2013
 

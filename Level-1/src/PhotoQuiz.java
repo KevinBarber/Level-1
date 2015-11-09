@@ -1,4 +1,4 @@
-package phtoQuiz;
+
 
 // Copyright Wintriss Technical Schools 2013
 import java.awt.Component;

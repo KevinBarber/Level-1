@@ -1,13 +1,14 @@
-/.DS_Store
 /DrumKit.class
 /DuellingButtons.class
+/GuiCalculator.class
 /MyFirstGui.class
 /PhotoQuiz.class
 /SimpleQuiz.class
 /drum.jpg
 /drumSound.wav
+/keypressedPractice.class
 /phtoQuiz/
 /secondDrum.jpg
 /secondDrumSound.wav
-/keypressedPractice.class
-/GuiCalculator.class
+/ArrowButtons.class
+/SlotMachine.class
